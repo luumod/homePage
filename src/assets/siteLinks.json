@@ -17,17 +17,17 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.helloylh.com/"
+    "link": "https://nav.imsyy.top/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "CSDN",
+    "link": "https://blog.csdn.net/jj6666djdbbd?type=blog"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.helloylh.com/"
+    "icon": "Tv",
+    "name": "BiliBili",
+    "link": "https://www.bilibili.com/"
   }
 ]
 
